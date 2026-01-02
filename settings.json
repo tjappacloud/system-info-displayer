@@ -1,0 +1,14 @@
+{
+  "font_family": "Cascadia Code",
+  "font_size": 12,
+  "text_color": "white",
+  "update_interval": 250,
+  "audio_update_interval": 50,
+  "anchor": "top-right",
+  "text_align": "left",
+  "python.defaultInterpreterPath": "C:/Users/natha/AppData/Local/Programs/Python/Python311/python.exe",
+  "margin_x": 0,
+  "margin_y": 0,
+  "monitor_device": "\\\\.\\DISPLAY1",
+  "audio_enabled": true
+}
